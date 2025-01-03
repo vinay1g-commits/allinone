@@ -1,0 +1,6 @@
+com\all\config\DriverManager.class
+com\all\utility\Utility.class
+com\all\pages\Page.class
+com\all\config\ExtentManager.class
+com\all\locators\Locators.class
+com\all\utility\ScreenshotUtil.class
