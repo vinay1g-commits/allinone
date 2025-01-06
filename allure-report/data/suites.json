@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "com.all.tests.TestCases",
+        "children" : [ {
+          "name" : "Verify MakeMyTrip Booking Flow",
+          "uid" : "7bf6e591ca852a89",
+          "parentUid" : "0133b245ebec1f6347114a9b4c2ea9c9",
+          "status" : "broken",
+          "time" : {
+            "start" : 1736166369061,
+            "stop" : 1736166393241,
+            "duration" : 24180
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0133b245ebec1f6347114a9b4c2ea9c9"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

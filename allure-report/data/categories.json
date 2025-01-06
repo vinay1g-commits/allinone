@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //innput[@id='fromCity'] (tried for 15 second(s) with 500 milliseconds interval)\nBuild info: version: '4.27.0', revision: 'd6e718d134'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 133.0.3, moz:accessibilityChecks: false, moz:buildID: 20241209150345, moz:debuggerAddress: 127.0.0.1:28616, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 6900, moz:profile: C:\\Users\\aa\\AppData\\Local\\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:28616/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}\nSession ID: 9bbd7ded-d191-44d7-b0dc-4e9e9677f99d",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "7bf6e591ca852a89",
+        "parentUid" : "548d6dea780ebf9df8937d67b0afe448",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736166369061,
+          "stop" : 1736166393241,
+          "duration" : 24180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "548d6dea780ebf9df8937d67b0afe448"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

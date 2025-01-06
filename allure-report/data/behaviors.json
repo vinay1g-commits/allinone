@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "MakeMyTrip Automation",
+    "children" : [ {
+      "name" : "Test Booking Functionality",
+      "children" : [ {
+        "name" : "Booking a flight",
+        "children" : [ {
+          "name" : "Verify MakeMyTrip Booking Flow",
+          "uid" : "7bf6e591ca852a89",
+          "parentUid" : "18a7aff64890844a82f091616abe53c5",
+          "status" : "broken",
+          "time" : {
+            "start" : 1736166369061,
+            "stop" : 1736166393241,
+            "duration" : 24180
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "18a7aff64890844a82f091616abe53c5"
+      } ],
+      "uid" : "b45199ec36f3319179203715a3475f0c"
+    } ],
+    "uid" : "5dac0ec950b19b3e5af9078d70473407"
+  } ]
+}

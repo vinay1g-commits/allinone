@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7bf6e591ca852a89",
+  "name" : "Verify MakeMyTrip Booking Flow",
+  "time" : {
+    "start" : 1736166369061,
+    "stop" : 1736166393241,
+    "duration" : 24180
+  },
+  "status" : "broken",
+  "severity" : "critical"
+} ]

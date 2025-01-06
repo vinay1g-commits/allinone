@@ -1,0 +1,159 @@
+{
+  "uid" : "c5b91994c6b3f880",
+  "name" : "Verify MakeMyTrip Booking Flow",
+  "fullName" : "com.all.tests.TestCases.testExample",
+  "historyId" : "8ed48369edaaca0bd99d183a8654fecd",
+  "time" : {
+    "start" : 1735899360331,
+    "stop" : 1735899380390,
+    "duration" : 20059
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1735899350905,
+      "stop" : 1735899360097,
+      "duration" : 9192
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigate to MakeMyTrip website",
+      "time" : {
+        "start" : 1735899360342,
+        "stop" : 1735899360342,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Close pop-up",
+      "time" : {
+        "start" : 1735899371586,
+        "stop" : 1735899371586,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter 'From' location",
+      "time" : {
+        "start" : 1735899373042,
+        "stop" : 1735899373042,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1735899380598,
+      "stop" : 1735899383896,
+      "duration" : 3298
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.all.tests.TestCases"
+  }, {
+    "name" : "testClass",
+    "value" : "com.all.tests.TestCases"
+  }, {
+    "name" : "testMethod",
+    "value" : "testExample"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.all.tests.TestCases"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-V3KNEUO"
+  }, {
+    "name" : "thread",
+    "value" : "12100@DESKTOP-V3KNEUO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Booking a flight"
+  }, {
+    "name" : "feature",
+    "value" : "Test Booking Functionality"
+  }, {
+    "name" : "epic",
+    "value" : "MakeMyTrip Automation"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5b91994c6b3f880.json",
+  "parameterValues" : [ ]
+}

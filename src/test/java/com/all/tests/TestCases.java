@@ -8,6 +8,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import com.all.config.DriverManager;
 import com.all.pages.Page;
+import com.all.utility.Utility;
 import io.qameta.allure.testng.AllureTestNg; // Import Allure TestNG listener
 
 @Epic("MakeMyTrip Automation")
@@ -17,12 +18,15 @@ public class TestCases {
 
     public WebDriver driver;
     public Page pg;
+    private Utility utility;  // Declare an instance of Utility class
 
     @BeforeClass
     @Step("Setup the WebDriver and initialize Page Object")
     public void setUp() {
-        driver = DriverManager.driverManager("firefox", "desktop");
+        DriverManager.driverManager("firefox", "desktop");
+        driver = DriverManager.getDriver();
         pg = new Page(driver);
+        utility = new Utility(driver, 10); // Initialize Utility with the driver and timeout
     }
 
     @Test(description = "Verify MakeMyTrip Booking Flow")
@@ -42,7 +46,8 @@ public class TestCases {
             pg.enterFromLocation();
 
         } catch (Exception e) {
-            throw e;
+            utility.takeScreenshots();  // Capture screenshot if test fails
+            throw e; // Re-throw the exception to fail the test
         }
     }
 

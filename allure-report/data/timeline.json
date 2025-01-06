@@ -1,0 +1,315 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-V3KNEUO",
+    "children" : [ {
+      "name" : "8592@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "c25fa93522ad362d",
+        "parentUid" : "2a51dbf906f611f470c45a9ee89d6998",
+        "status" : "passed",
+        "time" : {
+          "start" : 1735896798357,
+          "stop" : 1735896816353,
+          "duration" : 17996
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a51dbf906f611f470c45a9ee89d6998"
+    }, {
+      "name" : "12100@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "c5b91994c6b3f880",
+        "parentUid" : "9fa0bb9386cdab90fa376105be9dc767",
+        "status" : "passed",
+        "time" : {
+          "start" : 1735899360331,
+          "stop" : 1735899380390,
+          "duration" : 20059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9fa0bb9386cdab90fa376105be9dc767"
+    }, {
+      "name" : "9116@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "be38f09c5d9549f2",
+        "parentUid" : "6dd03cccda66ea7bf9346b6fcc5c0490",
+        "status" : "broken",
+        "time" : {
+          "start" : 1735896248961,
+          "stop" : 1735896274329,
+          "duration" : 25368
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6dd03cccda66ea7bf9346b6fcc5c0490"
+    }, {
+      "name" : "9072@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "8d3120020365957c",
+        "parentUid" : "d9c71f49c29dd60a3e63a24abac74609",
+        "status" : "passed",
+        "time" : {
+          "start" : 1735896166388,
+          "stop" : 1735896184816,
+          "duration" : 18428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d9c71f49c29dd60a3e63a24abac74609"
+    }, {
+      "name" : "5536@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "5d5575d7e8a03cfc",
+        "parentUid" : "f061a7a2e5320047f1f988ca42d79d54",
+        "status" : "broken",
+        "time" : {
+          "start" : 1735897463089,
+          "stop" : 1735897487073,
+          "duration" : 23984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f061a7a2e5320047f1f988ca42d79d54"
+    }, {
+      "name" : "12268@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "862321605c53cbe5",
+        "parentUid" : "92d7aac32a61bc1c61672af9149e341b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1735898625144,
+          "stop" : 1735898649961,
+          "duration" : 24817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92d7aac32a61bc1c61672af9149e341b"
+    }, {
+      "name" : "13976@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "9a21b93374513d9",
+        "parentUid" : "f2121cb3137be6488852b9ed623603f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1735893569896,
+          "stop" : 1735893586369,
+          "duration" : 16473
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2121cb3137be6488852b9ed623603f8"
+    }, {
+      "name" : "12436@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "7bf6e591ca852a89",
+        "parentUid" : "da3a15cab13b04f4d339230d17c93ddb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736166369061,
+          "stop" : 1736166393241,
+          "duration" : 24180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da3a15cab13b04f4d339230d17c93ddb"
+    }, {
+      "name" : "9436@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "7de703df15759d9c",
+        "parentUid" : "883d7990bee832944106187b86f07cda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1735899057290,
+          "stop" : 1735899080891,
+          "duration" : 23601
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "883d7990bee832944106187b86f07cda"
+    }, {
+      "name" : "1480@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "da8ff350ce49808",
+        "parentUid" : "917a622bb10348823beeeccb6643ada1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736164058301,
+          "stop" : 1736164083727,
+          "duration" : 25426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "917a622bb10348823beeeccb6643ada1"
+    }, {
+      "name" : "18428@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "9ed64be0d93169dc",
+        "parentUid" : "79ac1fc10b617551f04b4c917288203d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1735899513583,
+          "stop" : 1735899537075,
+          "duration" : 23492
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79ac1fc10b617551f04b4c917288203d"
+    }, {
+      "name" : "13036@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "dec6f77f34775c37",
+        "parentUid" : "bceeafc4c78ead08d3c061da5530f541",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736161674782,
+          "stop" : 1736161711036,
+          "duration" : 36254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bceeafc4c78ead08d3c061da5530f541"
+    }, {
+      "name" : "6448@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "d93b35406f88350c",
+        "parentUid" : "d23f4cbb591791bcc404a81d327413ac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736164979987,
+          "stop" : 1736165005775,
+          "duration" : 25788
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d23f4cbb591791bcc404a81d327413ac"
+    }, {
+      "name" : "4032@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "30f00bbdb87c0ecc",
+        "parentUid" : "f6e733f418b842b03b7cfc2e549c2387",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736164355345,
+          "stop" : 1736164379865,
+          "duration" : 24520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6e733f418b842b03b7cfc2e549c2387"
+    }, {
+      "name" : "13812@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "5857a405838dbbfb",
+        "parentUid" : "d8d2aa12c4305a20c480fc73d5fc7480",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736165404411,
+          "stop" : 1736165429156,
+          "duration" : 24745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d8d2aa12c4305a20c480fc73d5fc7480"
+    }, {
+      "name" : "13496@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "45e51d32d2e62af2",
+        "parentUid" : "1c57290d86a7e456ab998b69568aa20e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1736161447326,
+          "stop" : 1736161447377,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c57290d86a7e456ab998b69568aa20e"
+    }, {
+      "name" : "12756@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "5198c98442cc33c9",
+        "parentUid" : "1c4f9cbf491a5e8c856d897bc7f886ff",
+        "status" : "broken",
+        "time" : {
+          "start" : 1735898331293,
+          "stop" : 1735898355741,
+          "duration" : 24448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c4f9cbf491a5e8c856d897bc7f886ff"
+    }, {
+      "name" : "16120@DESKTOP-V3KNEUO.main(1)",
+      "children" : [ {
+        "name" : "Verify MakeMyTrip Booking Flow",
+        "uid" : "dde9e5e381e082bc",
+        "parentUid" : "17bdd95831f2e55d0f6e1530ee2ff6bf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1735900052179,
+          "stop" : 1735900076832,
+          "duration" : 24653
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17bdd95831f2e55d0f6e1530ee2ff6bf"
+    } ],
+    "uid" : "7f0ea745b1546fd47bcf7d100d8f0bdb"
+  } ]
+}
